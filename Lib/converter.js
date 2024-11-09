@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by Julius-md
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @israelleroro2125
+//Instagram: shellka_smith
+//Telegram: t.me/Juliusdevils
+//GitHub: @jaxgod
+//WhatsApp: +2250576012943
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@israelleroro2125
 
 const fs = require('fs')
 const path = require('path')
